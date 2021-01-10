@@ -4,4 +4,7 @@ In this project, we explored how data can be used to improve health outcomes. Th
 Using data to identify a new early diagnostic tool for Parkinson’s is potentially a great example of this. This report will focus on two questions:  
 
 1)Which voice measurement variables are most associated with having Parkinson’s disease? 
+
 2)Are the expected groups in the data, of those that do and do not have Parkinson’s disease, distinct and observable?
+
+R codes can be found in the appendix section of the uploaded report.
